@@ -13,7 +13,7 @@ The goal of this project was to analyze historical transaction data to predict c
 ## 📊 Exploratory Data Analysis (EDA)
 Before modeling, the dataset of over 10,000 retail transactions underwent extensive exploratory analysis to identify non-linear relationships and behavioral patterns between variables like Monthly Active Days and Average Session Duration.
 
-![Exploratory Data Analysis](eda_churn_analysis.jpg)
+![Exploratory Data Analysis](eda_churn_analysis.png)
 
 ## ⚙️ Methodology & Architecture
 1. **Data Preprocessing:** Cleaned the raw transaction data and engineered relevant features using Pandas. Applied one-hot encoding for categorical variables and z-score scaling for numeric features.
